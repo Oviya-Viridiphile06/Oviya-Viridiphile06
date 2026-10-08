@@ -1,3 +1,6 @@
+<div align="center"> <img src="images/About_me.png" alt="About Me" width="100%" /> </div>
+
+
 # 👋 Hello, I'm Oviya Maheswari N!
 
 ### 🚀 AI & Data Science Engineer | Data Analyst | Generative AI Enthusiast
